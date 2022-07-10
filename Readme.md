@@ -25,4 +25,8 @@
  ![ ports ](https://github.com/klemzi/3-tierWithNFS/blob/main/Images/getports.png)
  ![ updated SG ](https://github.com/klemzi/3-tierWithNFS/blob/main/Images/securityGroups.png)
 
+# Prepare Database server
+1. Spinned up another server, installed MySQL server.
+2. Created a database with command `create database tooling;` and switched to this database `use tooling;`.
+3. Creates a database user webaccess
   
